@@ -6,10 +6,10 @@
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+마크다운은 경량의 사용이 쉬운 편집 스타일링 기술입니다. 자주사용되는 스타일 사용법은 다음과 같습니다.
 
 ```markdown
-Syntax highlighted code block
+코드 블럭 문법 하일라잇
 
 # Header 1
 ## Header 2
@@ -26,11 +26,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+보다 자세한 사용법은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) 을 읽어보십시오.
 
-### Jekyll Themes
+### Jekyll 테마
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BSAKorea/study/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+이 페이지 사이트는 [레포지터리 설정](https://github.com/BSAKorea/study/settings)을 통해 셋팅된 Jekyll 테마의 레이아웃과 스타일을 따르고 있습니다. 테마 이름으로 시작되는 `_config.yml` 설정파일에 기록됩니다.
 
 ### Support or Contact
 
