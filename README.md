@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to BSA Pages
 
-You can use the [editor on GitHub](https://github.com/BSAKorea/study/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+마크업 문법을 사용해서 페이지의 내용을 관리하는 방법은 [깃헙 편집기](https://github.com/BSAKorea/study/edit/master/README.md)를 참고합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+참여자가 이 레포지터리에 커밋할 때마다 깃헙 페이지는 [Jekyll](https://jekyllrb.com/)을 통해 사이트 페이지들을 리빌드합니다.
 
 ### Markdown
 
